@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class Animal(){
+    public static void Dog(){
+        Console.WriteLine("Bruh");
+    }
+}
